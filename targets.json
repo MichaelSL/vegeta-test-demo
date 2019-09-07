@@ -1,0 +1,4 @@
+{"method":"GET", "url":"https://aws-uri.amazonaws.com/default/vegeta-demo-test?TableName=test", "header": {"Accept": ["application/json"], "x-api-key": ["api-key"] }}
+{"method":"POST", "url":"https://aws-uri.amazonaws.com/default/vegeta-demo-test", "body": "eyAibXktb2JqZWN0IjogImE4OTRkODQ0LWNlYTMtNGZmNC1iNTc4LWVhOWJjY2NhZmE3ZCJ9", "header": {"Accept": ["application/json"], "x-api-key": ["api-key"] }}
+{"method":"PUT","url":"https://aws-uri.amazonaws.com/default/vegeta-demo-test","body":"eyAibXktb2JqZWN0IjogImE4OTRkODQ0LWNlYTMtNGZmNC1iNTc4LWVhOWJjY2NhZmE3ZCJ9","header":{"Accept":["application/json"],"x-api-key":["api-key"]}}
+{"method":"DELETE","url":"https://aws-uri.amazonaws.com/default/vegeta-demo-test","body":"eyAibXktb2JqZWN0IjogImE4OTRkODQ0LWNlYTMtNGZmNC1iNTc4LWVhOWJjY2NhZmE3ZCJ9","header":{"Accept":["application/json"],"x-api-key":["api-key"]}}
